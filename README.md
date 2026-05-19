@@ -1,4 +1,4 @@
-<h1>TellCo Profit Analysis</h1>
+﻿<h1>TellCo Profit Analysis</h1>
 
 <h2>Overview</h2>
 <p>
@@ -64,7 +64,7 @@
 
 <h2>Author</h2>
 <ul>
-    <li>Mihret Agegnehu</li>
+    <li>Mahlet Agegnehu</li>
 </ul>
 
 <h2>Conclusion</h2>
